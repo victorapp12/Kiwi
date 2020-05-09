@@ -4,5 +4,3 @@ targets:
         platform: iOS
         deploymentTarget: "9.0"
         sources: [../Components/ServiceInvocation]
-        dependencies:
-            - target: Alamofire

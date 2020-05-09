@@ -7,11 +7,11 @@ Pod::Spec.new do |s|
   ServiceInvocationLib for invocations of REST services.
                        DESC
 
-  s.homepage         = "https://github.com/victorapp12/Kiwi"
+  s.homepage         = "https://github.com/victorapp12/Kiwi/tree/develop/Components/ServiceInvocation"
 
   s.source           = {
     :git => 'git@github.com:victorapp12/Kiwi.git',
-    :tag => s.name + "-" + s.version.to_s
+    :branch => 'develop'
   }
 
   s.authors         = 'Victor Perdomo'

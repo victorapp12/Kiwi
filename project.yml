@@ -1,0 +1,7 @@
+name: Kiwi
+options:
+    createIntermediateGroups: true
+    bundleIdPrefix: kiwi
+
+include:
+    - path: XGen/ServiceInvocation.yml

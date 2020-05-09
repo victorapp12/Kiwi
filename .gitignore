@@ -38,6 +38,7 @@ Temporary Items
 ## Build generated
 build/
 DerivedData/
+Podfile.lock
 
 ## Various settings
 *.pbxuser
@@ -49,6 +50,7 @@ DerivedData/
 *.perspectivev3
 !default.perspectivev3
 xcuserdata/
+*.xcworkspace/
 
 ## Other
 *.moved-aside
